@@ -13,7 +13,7 @@ global.location = '1' // id location
 global.apitokendo = '-' // isi apimu
 global.apilinode = '-' // isi apimu
 //=================================================//
-global.owner = ['6287769436621'] // ubah aja pake nomor lu
+global.owner = ['6287769436621', '0877694366211] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = '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'
 //====================BY Hw Mods=============================//
